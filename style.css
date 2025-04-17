@@ -48,7 +48,7 @@ img {
   height: auto;
 }
 
-img.colon {
+/* img.colon {
   animation: blink 1s step-start infinite;
 }
 
@@ -56,4 +56,5 @@ img.colon {
   50% {
     opacity: 0;
   }
-}
+} */
+
